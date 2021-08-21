@@ -4,10 +4,9 @@ Config files
 
 # Usage
 
-1) First download `vim-plug`
+1) First download `vim-plug`:
 
-```curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim```
+`curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`
 
 2) Copy `.vimrc` into your `~/.vimrc`
 
