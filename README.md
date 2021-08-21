@@ -13,3 +13,7 @@ Config files
 3) Open vim and write `:PlugInstall`
 
 4) Restart vim and enjoy
+
+# Pictures
+
+![picture](https://raw.githubusercontent.com/CountryTk/demos/master/vimconfig.png)
